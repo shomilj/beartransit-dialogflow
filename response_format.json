@@ -1,0 +1,17 @@
+{
+  "payload": {
+    "google": {
+      "expectUserResponse": true,
+      "richResponse": {
+        "items": [
+          {
+            "simpleResponse": {
+              "textToSpeech": "Here",
+              "displayText": "Here"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

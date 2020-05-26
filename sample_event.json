@@ -1,0 +1,31 @@
+{
+  "responseId": "7975bdff-b808-4020-bb84-609b8aa56655",
+  "queryResult": {
+    "queryText": "when does the next perimeter bus depart sproul towards cory?",
+    "parameters": {
+      "start": "sproul hall bancroft at telegraph",
+      "bus-line": "peri",
+      "end": "cory hall hearst at leroy"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/caltransit-7f371/agent/intents/1e1cbee7-2f75-4472-adec-f704379f7abd",
+      "displayName": "Bus Departure"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  },
+  "originalDetectIntentRequest": {
+    "payload": {}
+  },
+  "session": "projects/caltransit-7f371/agent/sessions/bc1b660c-84cf-4b64-467b-16ac95b14a34"
+}

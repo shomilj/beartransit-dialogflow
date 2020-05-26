@@ -1,0 +1,17 @@
+{
+  "data": {
+    "google": {
+      "expectUserResponse": true,
+      "richResponse": {
+        "items": [
+          {
+            "simpleResponse": {
+              "textToSpeech": "The next north bound train leaves downtown berkeley in 4 minutes. Then, another northbound train will depart downtown berkeley station in 12 minutes",
+              "displayText": "The next North-bound train leaves Downtown Berkeley station in 4 minutes. Then, another northbound train will Downtown Berkeley station in 12 minutes"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
